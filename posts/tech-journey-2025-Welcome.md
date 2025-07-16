@@ -25,7 +25,7 @@ What is your name, your favorite pokemon or something you like.
 - Mason - Charizard
 - Gavin - Treecko
 - [David](https://tech-journey-blog-two.vercel.app/) - Prokofiev
-- Evaristo - Reuniclus
+- [Evaristo](tech-journey-blog-blush.vercel.app) - Reuniclus
 - [Scott](https://scottsauber.com/) - Zapdos
 - [Tate](https://tech-journey-blog-tate.vercel.app/) - Football (Vikings)
 - [Luke](https://tech-journey-blog.vercel.app/) - Snorlax
