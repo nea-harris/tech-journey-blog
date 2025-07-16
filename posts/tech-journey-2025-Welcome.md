@@ -28,4 +28,4 @@ What is your name, your favorite pokemon or something you like.
 - Evaristo - Reuniclus
 - [Scott](https://scottsauber.com/) - Zapdos
 - [Tate](https://tech-journey-blog-tate.vercel.app/) - Football (Vikings)
-- Luke - Snorlax
+- [Luke](https://tech-journey-blog.vercel.app/) - Snorlax
