@@ -12,10 +12,7 @@ TODO:  Change these things along with:
 const font = Pacifico({ weight: '400', subsets: ['latin']})
 const title = 'Lynnea\'s Site';
 const description = 'This my personal site';
-const links = [
-  {title: 'Pokemon', href: '/pokemon'},
-  {title: 'Rick and Morty', href: '/rick-and-morty'}
-];
+
 const SocialLinks = {
   twitter: 'https://x.com/dunscombe_luke',
   github: '#github',
@@ -39,7 +36,7 @@ export default function RootLayout({
   return (
       <html lang="en" className={'h-full'} data-theme="dark">
       <body className={`${font.className} flex flex-col min-h-screen`}>
-      <NavBarContainer title={title} links={links}>
+      <NavBarContainer title={title} >
         <main className={'flex-1 max-w-6xl py-8 md:py-16 px-4 md:px-0'}>{children}</main>
       </NavBarContainer>
       <Footer socialLinks={SocialLinks}/>
