@@ -15,7 +15,7 @@ interface NavBarContainerProps {
 }
 
 const NavBarContainer: React.FC<NavBarContainerProps> = ({title, children, links}) => {
-
+  const profileImage = 'https://images.unsplash.com/photo-1669050589643-a06e01d7391e'
   function renderLinks() {
     return links?.map((l, i) => {
       return (
@@ -34,7 +34,7 @@ const NavBarContainer: React.FC<NavBarContainerProps> = ({title, children, links
             <div className="flex-none hidden lg:block w-12 h-12">
               <div className="avatar">
                 <div className="w-12 rounded-full border-primary border-2">
-                  <Image alt={'Profile image'} src={profilePic}/>
+                  <Image alt={'Profile image'} width={100} height={100} src={profileImage}/>
                 </div>
               </div>
             </div>
