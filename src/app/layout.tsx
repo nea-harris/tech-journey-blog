@@ -9,7 +9,7 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Bebas_Neue({ weight: '700', subsets: ['latin']})
+const font = Bebas_Neue({ weight: '400', subsets: ['latin']})
 const title = 'Lynnea\'s Site';
 const description = 'This my personal site';
 const links = [
