@@ -14,10 +14,10 @@ const title = 'Lynnea\'s Site';
 const description = 'This my personal site';
 
 const SocialLinks = {
-  twitter: 'https://x.com/dunscombe_luke',
+  twitter: '#twitter',
   github: '#github',
   instagram: '#insta',
-  email: 'mailto:ldunscombe@leantechniques.com'
+  email: 'mailto:peculiarchildren2@gmail.com'
 }
 
 export const metadata: Metadata = {
