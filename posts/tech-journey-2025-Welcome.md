@@ -7,25 +7,25 @@ Welcome to Tech Journey! Let's make some cool sites!
 
 What is your name, your favorite pokemon or something you like.
 
-Rhea - Blaziken
-Lynnea - Titanic
-Zakiya - Pikachu
-Alejandro - Registeel
-Adrian - Football (Bears)
-Landon - Blastoise
-Htee - Naruto
-Avika - Robotics
-Dharitri - Tennis
-Amulya - Tennis
-Bryn - Absol
-Adrianna - Psyduck
-Kota - Corviknight
-Joey - Gengar
-Abigail - Soccer
-Mason - Charizard
-Gavin - Treecko
-David - Prokofiev
-Evaristo - Reuniclus
-Scott - Zapdos
-Tate - Football (Vikings)
-Luke - Snorlax
+- Rhea - Blaziken  
+- Lynnea - Titanic
+- Zakiya - Pikachu
+- Alejandro - Registeel
+- Adrian - Football (Bears)
+- Landon - Blastoise
+- Htee - Naruto
+- Avika - Robotics
+- Dharitri - Tennis
+- Amulya - Tennis
+- Bryn - Absol
+- Adrianna - Psyduck
+- Kota - Corviknight
+- Joey - Gengar
+- Abigail - Soccer
+- Mason - Charizard
+- Gavin - Treecko
+- David - Prokofiev
+- Evaristo - Reuniclus
+- Scott - Zapdos
+- Tate - Football (Vikings)
+- Luke - Snorlax
