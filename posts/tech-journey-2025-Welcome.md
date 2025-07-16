@@ -24,7 +24,7 @@ What is your name, your favorite pokemon or something you like.
 - Abigail - Soccer
 - Mason - Charizard
 - Gavin - Treecko
-- David - Prokofiev
+- [David](https://tech-journey-blog-two.vercel.app/) - Prokofiev
 - Evaristo - Reuniclus
 - [Scott](https://scottsauber.com/) - Zapdos
 - [Tate](https://tech-journey-blog-tate.vercel.app/) - Football (Vikings)
