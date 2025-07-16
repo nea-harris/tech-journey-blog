@@ -17,7 +17,7 @@ What is your name, your favorite pokemon or something you like.
 - Avika - Robotics
 - Dharitri - Tennis
 - Amulya - Tennis
-- Bryn - Absol
+- [Bryn](https://tech-journey-blog-green.vercel.app/) - Absol
 - Adrianna - Psyduck
 - Kota - Corviknight
 - Joey - Gengar
