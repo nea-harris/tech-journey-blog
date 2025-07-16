@@ -7,7 +7,7 @@ This is the block of code:
 ```javascript
     daisyui: {
     themes: [
-        "forest",
+        "valentine",
         {
             "mytheme": {
                 "primary": "#a991f7",
