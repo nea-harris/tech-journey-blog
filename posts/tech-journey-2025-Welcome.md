@@ -26,6 +26,6 @@ What is your name, your favorite pokemon or something you like.
 - Gavin - Treecko
 - David - Prokofiev
 - Evaristo - Reuniclus
-- Scott - Zapdos
-- Tate - Football (Vikings)
+- [Scott](https://scottsauber.com/) - Zapdos
+- [Tate](https://tech-journey-blog-tate.vercel.app/) - Football (Vikings)
 - [Luke](https://tech-journey-blog.vercel.app/) - Snorlax
