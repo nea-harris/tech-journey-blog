@@ -49,6 +49,6 @@ Every faction, seeing its radiance, dropped their weapons. For the first time in
 
 The Dum Dum was placed in orbit, where it spins still—glowing, untasted, and utterly victorious.
 
-The End... For Now.
+The End... For Now
 
-Would you like a sequel called The Sour Rebellion?
+![dum-dum-war](/images/dum-dum-war.png)
