@@ -9,7 +9,7 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Karla({ weight: '400'})
+const font = Karla({ weight: '400', subsets: ['latin']})
 const title = 'Robert\'s Site';
 const description = 'This my personal site';
 const links = [
