@@ -2,7 +2,7 @@
 module.exports = {
     daisyui: {
         themes: [
-            "luxury",
+            "fantasy",
             {
                 "mytheme": {
                     "primary": "#14b8a6",
