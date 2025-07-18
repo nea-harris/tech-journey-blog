@@ -5,7 +5,7 @@ import Link from "next/link";
 import type {IconType} from "react-icons";
 
 interface FooterProps {
-  socialLinks: Partial<{ twitter: string, github: string, email: string, instagram: string }>
+  socialLinks: Partial<{ twitter: string, github: string, email: string, instagram: string, letterboxd: string }>
 }
 
 const SocialLink = (props: { link: string, Icon: IconType }) => {
@@ -29,6 +29,8 @@ const Footer: React.FC<FooterProps> = ({socialLinks}) => {
           {socialLinks.github && <SocialLink link={socialLinks.github} Icon={FaGithub}/>}
           {socialLinks.instagram && <SocialLink link={socialLinks.instagram} Icon={FaInstagram}/>}
           {socialLinks.email && <SocialLink link={socialLinks.email} Icon={FaRegEnvelope}/>}
+          {socialLinks.letterboxd && <SocialLink link={socialLinks.letterboxd} Icon={FaRegEnvelope}/>}
+          {'}'}
         </div>
       </footer>
   );
