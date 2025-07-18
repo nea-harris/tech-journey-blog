@@ -3,6 +3,7 @@ import type {Metadata} from 'next'
 import {Pacifico} from 'next/font/google';
 import NavBarContainer from "@/components/NavBarContainer";
 import Footer from "@/components/Footer";
+import { FaLetterboxd } from 'react-icons/fa6';
 
 /*
 TODO:  Change these things along with:
@@ -17,7 +18,8 @@ const SocialLinks = {
   twitter: '#twitter',
   github: '#github',
   instagram: '#insta',
-  email: 'mailto:peculiarchildren2@gmail.com'
+  email: 'mailto:peculiarchildren2@gmail.com',
+  letterboxd: 'https://letterboxd.com/NeaRatesMovies',
 }
 
 export const metadata: Metadata = {
